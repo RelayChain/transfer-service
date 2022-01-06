@@ -172,7 +172,7 @@ function Transfer() {
             />
           </label>
         </div>}
-        <input type="submit" className="submitBtn" />
+        <input type="submit" className="submitBtn" value="Transfer" />
       </form >
     </>
 
