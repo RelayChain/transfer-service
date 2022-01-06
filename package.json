@@ -2,7 +2,6 @@
   "name": "transfer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://spreadzp.github.io/transfer-sample/",
   "dependencies": {
     "@ethersproject/providers": "^5.5.1",
     "@testing-library/jest-dom": "^5.16.1",
